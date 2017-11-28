@@ -1,4 +1,4 @@
-package io.vertx.blog.first;
+package io.vertx.ram;
 
 
 import io.vertx.core.AbstractVerticle;

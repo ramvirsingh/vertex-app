@@ -1,4 +1,4 @@
-package io.vertx.blog.first;
+package io.vertx.ram;
 
 import org.junit.After;
 import org.junit.Before;
@@ -9,6 +9,7 @@ import io.vertx.core.Vertx;
 import io.vertx.ext.unit.Async;
 import io.vertx.ext.unit.TestContext;
 import io.vertx.ext.unit.junit.VertxUnitRunner;
+import io.vertx.ram.MyFirstVerticle;
 
 @RunWith(VertxUnitRunner.class)
 public class MyFirstVerticleTest {
